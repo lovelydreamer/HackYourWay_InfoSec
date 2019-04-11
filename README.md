@@ -78,3 +78,5 @@ Other:
 ## Python
   Black Hat Python
   
+  ## Helpful Tools:
+  Video - AuthMatrix: Simplified Authorization Testing for Web Applications https://www.youtube.com/watch?v=pMXTmXUsEL8

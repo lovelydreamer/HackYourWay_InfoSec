@@ -29,6 +29,7 @@ Then you will need to install and use a web application proxy. After that I've l
   ****XSS****
   XSS Hunter - Blind XSS callbacks https://xsshunter.com/signup
   Google XSS Challenge: https://www.google.com/about/appsecurity/learning/xss/
+  Understanding XSS + CSRF (slides) https://docs.google.com/presentation/d/1O2E7epO6OR7oGyvGwglEsKiaZ9Cary495RrPVdfZNPo/edit?usp=sharing
 
     
   ****CSRF****

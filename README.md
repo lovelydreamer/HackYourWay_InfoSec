@@ -1,8 +1,10 @@
 # HackYourWay_InfoSec
 The tool kit you need to break into Info Sec - Application Security focused.
 This resource assumes knowledge of basic HTML and JavaScript. I've linked resources here in this blog: https://medium.com/@lovelydreamer/how-many-hours-to-learn-to-code-862-67916333cce2
+
+
 First you should learn how browsers and web applications work. Then you will better understand how they break and why.
-Then you will need to install and use a web application proxy. 
+Then you will need to install and use a web application proxy. After that I've listed some web vulnerability resources in what they are and some practice sites. Lastly, vulnerable applications and other helpful tools outside of appsec. 
 
   
 ## Understanding Browsers & Browser Security Models:
@@ -66,7 +68,9 @@ Then you will need to install and use a web application proxy.
       
     Bugcrowd
     Hackerone
-    
+   
+   
+Other:   
 ## Bash
 
   

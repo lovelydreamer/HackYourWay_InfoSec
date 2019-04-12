@@ -47,6 +47,10 @@ Then you will need to install and use a web application proxy. After that I've l
   Using burp to attack session management: https://support.portswigger.net/customer/portal/articles/1964053-using-burp-to-attack-session-management
   
   
+  ****MISC*****
+  Misconfigured CORS header: https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors
+  
+  
   -- BOOKS --
     Web Application Hackers Handbook by Dafydd Stuttard and Marcus Pinto
     The Tangled Web by: Michał Zalewski: https://nostarch.com/tangledweb
